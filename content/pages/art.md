@@ -90,7 +90,7 @@ Wahrnehmungsverzerrung durch Glauben.
 
 ![Augen](/images/zeichnung/augen.jpg)
 
-![Portrait](/images/zeichnung/portrait.jpg)
+![Porträt](/images/zeichnung/portrait.jpg)
 
 ### Malerei
 

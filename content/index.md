@@ -23,6 +23,9 @@ Lang: de
 
 <a href="https://anarchistischebibliothek.org/search?query=&sort=&filter_author=%2Fcategory%2Fauthor%2Feinsfeld-katja" target="__blank">Anarchistische Bibliothek</a>
 
+### Kunst
+
+<a href="/kunst">Kunst</a>
 
 ### Kontakt
 
@@ -31,3 +34,4 @@ E-Mail: katja - ät - einsfeld - punkt - de
 <a href="https://pgp.mit.edu/pks/lookup?search=katja%40einsfeld.de&op=index" target="__blank">PGP Key</a>
 
 <a href="/impressum">Impressum</a>
+
