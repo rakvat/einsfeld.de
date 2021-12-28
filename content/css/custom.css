@@ -27,6 +27,25 @@ a.anchor:before {
 }
 
 div.content {
-  max-width: 300px;
+  max-width: 500px;
   margin: auto;
 }
+
+img {
+  max-width: 500px;
+}
+
+@media screen and (max-width: 400px) {
+  p {
+    padding: 0px 0px;
+  }
+
+  div.content {
+    margin: 5px;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
