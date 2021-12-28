@@ -5,7 +5,7 @@ Lang: en
 
 ## Katja Einsfeld
 
-<small><a href="/index">de</a> | en</small>
+<small><a href="/index.html">de</a> | en</small>
 
 ### Software Development
 
@@ -26,7 +26,7 @@ Lang: en
 
 ### Contact
 
-email: katja - ät - einsfeld - punkt - de
+email: katja - at - einsfeld - dot - de
 
 <a href="https://pgp.mit.edu/pks/lookup?search=katja%40einsfeld.de&op=index" target="__blank">PGP Key</a>
 

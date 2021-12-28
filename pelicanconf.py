@@ -29,7 +29,10 @@ DEFAULT_PAGINATION = False
 PAGES_PATHS = ['pages']
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}/index.html'
-ARTICLE_SAVE_AS = 'texte/{slug}/index.html'
+ARTICLE_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+DIRECT_TEMPLATES = ['index']
 
 STATIC_PATHS = ['css', 'extra']
 EXTRA_PATH_METADATA = {
