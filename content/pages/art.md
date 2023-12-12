@@ -94,6 +94,8 @@ Wahrnehmungsverzerrung durch Glauben.
 
 ### Malerei
 
+![Schrei](/images/malerei/scream.jpg)
+
 ![Körperteile](/images/malerei/koerper.jpg)
 
 ![Kuh](/images/malerei/kuh.jpg)
