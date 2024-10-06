@@ -1,4 +1,4 @@
-Title: einsfeld.de 
+Title: einsfeld.de
 Date: 2021-12-27 11:00
 Slug: index
 Lang: en
@@ -17,9 +17,11 @@ Lang: en
 
 ### Society
 
-<a href="https://transform-social.org" target="__blank">transform-social.org</a>
+<a href="https://transform-social.org" target="__blank">transform-social.org/en/</a>
 
 <a href="https://www.graswurzel.net/gwr/?s=katja+einsfeld" target="__blank">graswurzel.net</a> (German)
+
+<a href="https://theanarchistlibrary.org/search?filter_author=%2Fcategory%2Fauthor%2Fkatja-einsfeld" target="__blank">Anarchist Library</a>
 
 <a href="https://anarchistischebibliothek.org/search?query=&sort=&filter_author=%2Fcategory%2Fauthor%2Feinsfeld-katja" target="__blank">Anarchistische Bibliothek</a> (German)
 
